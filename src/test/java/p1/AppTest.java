@@ -34,6 +34,7 @@ public class AppTest
     public void testApp()
     {
     	System.out.println("HELLO FROM THE INSIDE");
-        assertTrue( true );
+System.out.println("HELLO FROM THE PI");
+       assertTrue( true );
     }
 }
