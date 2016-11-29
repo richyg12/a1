@@ -33,7 +33,7 @@ public class AppTest
      */
     public void testApp()
     {
-    	System.out.println("HELLO");
+    	System.out.println("HELLO FROM THE INSIDE");
         assertTrue( true );
     }
 }
