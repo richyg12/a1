@@ -1,7 +1,7 @@
 package p1;
 
 /**
- * Hello world!
+ * Hello world !
  *
  */
 public class App 
