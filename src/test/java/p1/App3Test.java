@@ -31,9 +31,20 @@ public class App3Test
     /**
      * Rigourous Test :-)
      */
-    public void testApp()
+    //@Ignore
+    public void testApp1()
     {
-    	System.out.println("I AM TEST 3 DID I RUN ?");
-       assertTrue( true );
+    	int i = 1;
+    	
+    	System.out.println("I AM TEST 1 DID I RUN ?");
+       assertTrue( i == 1  );
+    }
+    
+    public void testApp2()
+    {
+    	int i = 2;
+    	
+    	System.out.println("I AM TEST 2 DID I RUN ?");
+       assertTrue( i == 2  );
     }
 }
