@@ -33,7 +33,9 @@ public class App6Test
      */
     public void testApp()
     {
-    	System.out.println("HELLO EMMA I AM TEST 6 - DID I PASS");
-    	assertTrue( true );
+    	System.out.println("HELLO EMMA I AM TEST 6 - DID I PASS HI ITS ME");
+System.out.println("HELLO EMMA I AM TEST 6 - and also me");
+	 
+   	assertTrue( true );
     }
 }
